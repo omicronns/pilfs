@@ -1,0 +1,8 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/raspberrypi/linux.git
+	branch = rpi-5.0.y
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/mirror/busybox.git
+	branch = 1_30_stable
